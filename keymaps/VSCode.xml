@@ -1,4 +1,12 @@
 <keymap version="1" name="VSCode 副本" parent="VSCode">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="ProblemsView.QuickFixes">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
